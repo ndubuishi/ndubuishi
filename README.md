@@ -22,7 +22,7 @@ src="https://img.shields.io/twitter/follow/NansNdubest?logo=twitter&style=for-th
 
 
 <p align="left"> *Interpret Piping and Instrument Diagrams (P&ID)
-  *Perform calibrations, maintenance and troubleshooting of sensors, actuatorsand control systems to optimize performance.
+  *Perform calibrations, maintenance and troubleshooting of sensors, actuators and control systems to optimize performance.
   *Implement safety protocols to ensure system reliability and workplace security.
   *Provide technical support and develop solutions for automation systems, contributing to operational efficiency.
   *Designing 2D and 3D animations for commercials, presentations, and social media campaigns.
